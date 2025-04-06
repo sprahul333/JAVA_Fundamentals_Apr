@@ -1,0 +1,23 @@
+Every Java class/file that we create, it should be present inside a package
+
+Package is nothing but a shelf or a cupboard where we maintain our things properly
+
+Q).How do we declare or write a package name??
+
+A).While creating a package, we have to declare using the camel case
+    First Letter of the first word should be small letter, first letter of the subsequent words should be capital letters
+
+Ex: Sarika Guest
+    sarikaGuest
+
+Q). How do we declare or write a Java Class Name??
+
+A). While creating a java class, we have to declare using the Pascal Case
+    First Letter of every word should be capital letters
+
+Ex: Sarika Guest
+    SarikaGuest
+
+Q). Where do we need to create all the code files and packages??
+
+A). We need to create the java files and package folders within the src/ folder
